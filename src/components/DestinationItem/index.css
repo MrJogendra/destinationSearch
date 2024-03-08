@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.list-card {
+  margin: 0px 10px 10px;
+  list-style-type: none;
+}
+.img {
+  height: 20vh;
+  width: 30vw;
+}
+.name{
+  font-size: 16px;
+  color: #000000;
+  font-family: "Roboto";
+}
